@@ -86,4 +86,9 @@ ENV/
 .spyderproject
 
 # Rope project settings
-.ropeproject
+.ropeprojec
+
+#extended
+src/
+dj1.8
+nohup.out
